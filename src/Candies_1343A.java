@@ -4,6 +4,8 @@ import java.io.*;
 public class Candies_1343A {
     public static void main(String[] args) throws IOException {
         FastScanner s=new FastScanner();
+        int j=0;
+        j++;
         int t;
         t = s.nextInt();
         for(int i=0;i<t;i++)
