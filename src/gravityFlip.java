@@ -1,29 +1,21 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class beautifulMartix {
+public class gravityFlip {
     public static void main(String[] args) {
-        int temp;
-        FastReader s = new FastReader();
-        int rowNum=0;
-        int colNum=0;
-        for(int i=0;i<5;i++)
-        {
-            for(int j=0;j<5;j++)
-            {
-               if(s.nextInt()==1)
-               {
-                   rowNum=i;
-                   colNum=j;
-                   break;
-               }
-            }
-        }
-        System.out.println(Math.abs(2-rowNum)+Math.abs(2-colNum));
-    }
 
+        FastReader s = new FastReader();
+        int n = s.nextInt();
+        int arr[] = new int[n];
+        for(int i=0;i<n;i++)
+            arr[i] = s.nextInt();
+        Arrays.sort(arr);
+        for(int i=0;i<n;i++)
+            System.out.print(arr[i]+" ");
+    }
     static class FastReader
     {
         BufferedReader br;
@@ -81,3 +73,4 @@ public class beautifulMartix {
         }
     }
 }
+
