@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30dc2128-0104-4f0a-bc09-4fd0f13ef84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gravityFlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blackSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boyOrGirl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/magnets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nightAtTheMuseum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/petyaAndStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/policeRecruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serejaAndDema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stonesOnTheTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beautifulMartix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beautifulMartix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vanyaAndFence.java">
+        <entry file="file://$PROJECT_DIR$/src/stonesOnTheTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="73" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
+            <state relative-caret-position="258">
+              <caret line="76" column="9" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="76" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,46 +38,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/antonandDanik.java">
+        <entry file="file://$PROJECT_DIR$/src/blackSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="85" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bearAndBigBrother.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="12" selection-end-line="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/team.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="10" selection-end-line="81" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beautifulMartix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,49 +50,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gravityFlip.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jrt:///home/prasheel/idea-IC-191.6183.87/jre64!/java.base/java/lang/String.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewYearandHurry_750A.java">
+        <entry file="file://$PROJECT_DIR$/src/nightAtTheMuseum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jrt:///home/prasheel/idea-IC-191.6183.87/jre64!/java.base/java/lang/Math.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuyAShovel_732A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,6 +95,15 @@
         <option value="$PROJECT_DIR$/src/team.java" />
         <option value="$PROJECT_DIR$/src/beautifulMartix.java" />
         <option value="$PROJECT_DIR$/src/gravityFlip.java" />
+        <option value="$PROJECT_DIR$/src/petyaAndStrings.java" />
+        <option value="$PROJECT_DIR$/src/boyOrGirl.java" />
+        <option value="$PROJECT_DIR$/src/word.java" />
+        <option value="$PROJECT_DIR$/src/magnets.java" />
+        <option value="$PROJECT_DIR$/src/serejaAndDema.java" />
+        <option value="$PROJECT_DIR$/src/stonesOnTheTable.java" />
+        <option value="$PROJECT_DIR$/src/policeRecruits.java" />
+        <option value="$PROJECT_DIR$/src/blackSquare.java" />
+        <option value="$PROJECT_DIR$/src/nightAtTheMuseum.java" />
       </list>
     </option>
   </component>
@@ -172,7 +113,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -184,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,6 +142,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.gravityFlip">
+  <component name="RunManager" selected="Application.blackSquare">
     <configuration name="VasyaAndSocks_460A" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VasyaAndSocks_460A" />
       <module name="Codeforces" />
@@ -238,36 +179,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="antonandDanik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="antonandDanik" />
+    <configuration name="blackSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blackSquare" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bearAndBigBrother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bearAndBigBrother" />
+    <configuration name="magnets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="magnets" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="beautifulMartix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beautifulMartix" />
+    <configuration name="policeRecruits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="policeRecruits" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gravityFlip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gravityFlip" />
+    <configuration name="serejaAndDema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serejaAndDema" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="team" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="team" />
+    <configuration name="stonesOnTheTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stonesOnTheTable" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -275,19 +216,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.VasyaAndSocks_460A" />
-      <item itemvalue="Application.antonandDanik" />
-      <item itemvalue="Application.bearAndBigBrother" />
-      <item itemvalue="Application.team" />
-      <item itemvalue="Application.beautifulMartix" />
-      <item itemvalue="Application.gravityFlip" />
+      <item itemvalue="Application.magnets" />
+      <item itemvalue="Application.serejaAndDema" />
+      <item itemvalue="Application.stonesOnTheTable" />
+      <item itemvalue="Application.policeRecruits" />
+      <item itemvalue="Application.blackSquare" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gravityFlip" />
-        <item itemvalue="Application.beautifulMartix" />
-        <item itemvalue="Application.team" />
-        <item itemvalue="Application.bearAndBigBrother" />
-        <item itemvalue="Application.antonandDanik" />
+        <item itemvalue="Application.blackSquare" />
+        <item itemvalue="Application.policeRecruits" />
+        <item itemvalue="Application.stonesOnTheTable" />
+        <item itemvalue="Application.serejaAndDema" />
+        <item itemvalue="Application.magnets" />
       </list>
     </recent_temporary>
   </component>
@@ -341,10 +282,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
+    <frame x="0" y="-1" width="1366" height="728" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2688822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28021148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,12 +294,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3262295" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3262295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32786885" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
@@ -370,6 +311,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32930514" />
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -388,9 +330,30 @@
     <MESSAGE value="Revert &quot;addedJVariable&quot;&#10;&#10;This reverts commit f50b1f07" />
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;addedJVariable&quot;&#10;&#10;This reverts commit f50b1f07" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/policeRecruits.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/policeRecruits.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Codeforces$petyaAndStrings.ic" NAME="petyaAndStrings Coverage Results" MODIFIED="1605202832120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/jadhjad.java" />
@@ -465,6 +428,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/antonandDanik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="27" selection-start-line="30" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bearAndBigBrother.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -479,6 +452,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="10" column="10" selection-end-line="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beautifulMartix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gravityFlip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="19" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/boyOrGirl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -506,9 +519,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/petyaAndStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="35" column="19" selection-start-line="30" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/policeRecruits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/magnets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/serejaAndDema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BuyAShovel_732A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="288">
           <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -516,30 +569,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beautifulMartix.java">
+    <entry file="file://$PROJECT_DIR$/src/stonesOnTheTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="258">
+          <caret line="76" column="9" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="76" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/antonandDanik.java">
+    <entry file="file://$PROJECT_DIR$/src/blackSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="85" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="85" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gravityFlip.java">
+    <entry file="file://$PROJECT_DIR$/src/nightAtTheMuseum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
