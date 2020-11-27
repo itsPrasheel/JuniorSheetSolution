@@ -3,22 +3,37 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class nightAtTheMuseum {
+public class uniqueBidAuction {
+
     public static void main(String[] args) {
         FastReader s = new FastReader();
-        String str = s.nextLine();
-        int totalCount = 0;
-        int prevCount = 'a';
-        for(int i=0;i<str.length();i++)
+        int t = s.nextInt();
+        for(int z=0;z<t;z++)
         {
-            int temp = str.charAt(i);
-//            System.out.println(temp);
-            int diff1 = (temp-prevCount+26)%26;
-            int diff2 = (prevCount-temp+26)%26;
-            totalCount+= Math.min(diff1,diff2);
-            prevCount = temp;
+            int flag = 0;
+            int n = s.nextInt();
+            int [] arr = new int[n+1];
+            int [] arr2 = new int[n+1];
+            int temp;
+            for(int i=0;i<n;i++)
+            {
+                temp = s.nextInt();
+                ++arr[temp];
+                arr2[temp]=i;
+            }
+            for(int i=1;i<=n;i++)
+            {
+                if(arr[i]==1)
+                {
+                    flag = 1;
+                    System.out.println(arr2[i]+1);
+                    break;
+                }
+            }
+            if(flag==0)
+                System.out.println("-1");
+
         }
-        System.out.println(totalCount);
     }
 
     static class FastReader

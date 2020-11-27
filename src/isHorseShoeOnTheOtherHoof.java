@@ -2,24 +2,25 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
+import java.util.*;
 
-public class nightAtTheMuseum {
+public class isHorseShoeOnTheOtherHoof {
+
     public static void main(String[] args) {
         FastReader s = new FastReader();
-        String str = s.nextLine();
-        int totalCount = 0;
-        int prevCount = 'a';
-        for(int i=0;i<str.length();i++)
+        int [] arr = new int[4];
+        for(int i=0;i<4;i++)
+            arr[i] = s.nextInt();
+        Arrays.sort(arr);
+        int count = 0;
+        for(int i=1;i<4;i++)
         {
-            int temp = str.charAt(i);
-//            System.out.println(temp);
-            int diff1 = (temp-prevCount+26)%26;
-            int diff2 = (prevCount-temp+26)%26;
-            totalCount+= Math.min(diff1,diff2);
-            prevCount = temp;
+            if(arr[i]==arr[i-1])
+                ++count;
         }
-        System.out.println(totalCount);
+        System.out.println(count);
     }
+
 
     static class FastReader
     {

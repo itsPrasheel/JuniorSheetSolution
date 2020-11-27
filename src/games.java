@@ -3,23 +3,25 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class nightAtTheMuseum {
+public class games {
     public static void main(String[] args) {
         FastReader s = new FastReader();
-        String str = s.nextLine();
-        int totalCount = 0;
-        int prevCount = 'a';
-        for(int i=0;i<str.length();i++)
+        int n  = s.nextInt();
+        int [] arr1 = new int[100];
+        int [] arr2 = new int[100];
+        for(int i=0;i<n;i++)
         {
-            int temp = str.charAt(i);
-//            System.out.println(temp);
-            int diff1 = (temp-prevCount+26)%26;
-            int diff2 = (prevCount-temp+26)%26;
-            totalCount+= Math.min(diff1,diff2);
-            prevCount = temp;
+            ++arr1[s.nextInt()-1];
+            ++arr2[s.nextInt()-1];
         }
-        System.out.println(totalCount);
+        int total = 0;
+        for(int i=0;i<100;i++)
+        {
+            total = total + arr1[i]*arr2[i];
+        }
+        System.out.println(total);
     }
+
 
     static class FastReader
     {

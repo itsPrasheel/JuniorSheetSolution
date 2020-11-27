@@ -3,22 +3,36 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class nightAtTheMuseum {
+public class specialPermutaion {
+
     public static void main(String[] args) {
         FastReader s = new FastReader();
-        String str = s.nextLine();
-        int totalCount = 0;
-        int prevCount = 'a';
-        for(int i=0;i<str.length();i++)
+        int n = s.nextInt();
+        int [] arr = new int[n];
+
+        for(int i=0;i<n;i++)
         {
-            int temp = str.charAt(i);
-//            System.out.println(temp);
-            int diff1 = (temp-prevCount+26)%26;
-            int diff2 = (prevCount-temp+26)%26;
-            totalCount+= Math.min(diff1,diff2);
-            prevCount = temp;
+            arr[i]= s.nextInt();
         }
-        System.out.println(totalCount);
+        for(int i=0;i<n;i++)
+        {
+            if(arr[i]%2==0)
+            {
+                for(int j=arr[i];j>0;j--)
+                {
+                    System.out.print(j+" ");
+                }
+                System.out.println();
+            }
+            else
+            {
+                for(int j=2;j<=arr[i];j++)
+                {
+                    System.out.print(j+" ");
+                }
+                System.out.println(1);
+            }
+        }
     }
 
     static class FastReader

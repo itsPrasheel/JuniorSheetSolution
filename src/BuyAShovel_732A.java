@@ -3,24 +3,42 @@ import java.util.*;
 
 public class BuyAShovel_732A {
     public static void main(String[]args) throws IOException {
-        boolean flag=false;
-        FastScanner scan =new FastScanner();
-        int priceOfShowel=scan.nextInt();
-        int diffCoin=scan.nextInt();
-        if(priceOfShowel==diffCoin)
-            System.out.println(1);
-//        System.out.println(priceOfShowel+" "+diffCoin);
-        else {
-            for (int i = 1; i <= 9; i++) {
-                if ((priceOfShowel * i - diffCoin) % 10 == 0 || (priceOfShowel * i) % 10 == 0) {
-                    System.out.println(i);
-                    flag = true;
-                    break;
-                }
+        FastScanner s = new FastScanner();
+        int cost = s.nextInt();
+        int chillad = s.nextInt();
+        boolean flag = false;
+        for(int i=1;i<=10;i++)
+        {
+            int temp = (cost*i)%10;
+            if(temp==chillad || temp == 0) {
+                System.out.println(i);
+                flag = true;
+                break;
             }
-            if(!flag)
-                System.out.println("10");
         }
+        if(!flag)
+            System.out.println(10);
+
+
+//        Solution 1
+//        boolean flag=false;
+//        FastScanner scan =new FastScanner();
+//        int priceOfShowel=scan.nextInt();
+//        int diffCoin=scan.nextInt();
+//        if(priceOfShowel==diffCoin)
+//            System.out.println(1);
+////        System.out.println(priceOfShowel+" "+diffCoin);
+//        else {
+//            for (int i = 1; i <= 9; i++) {
+//                if ((priceOfShowel * i - diffCoin) % 10 == 0 || (priceOfShowel * i) % 10 == 0) {
+//                    System.out.println(i);
+//                    flag = true;
+//                    break;
+//                }
+//            }
+//            if(!flag)
+//                System.out.println("10");
+//        }
 
     }
     static class FastScanner {
