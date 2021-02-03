@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/colorfulStones.java" description="{" line="23" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="30dc2128-0104-4f0a-bc09-4fd0f13ef84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/games.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isHorseShoeOnTheOtherHoof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/specialPermutaion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uniqueBidAuction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/antonAndLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carrotCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colorfulStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dieRoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/freeIceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpfulMaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/juicer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shaassAndOskols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teamOlympiad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wayTooLongWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codeforces/BuyAShovel_732A$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Codeforces/BuyAShovel_732A$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Codeforces/BuyAShovel_732A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Codeforces/BuyAShovel_732A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuyAShovel_732A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuyAShovel_732A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nightAtTheMuseum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nightAtTheMuseum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,10 +31,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stonesOnTheTable.java">
+        <entry file="file://$PROJECT_DIR$/src/freeIceCream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="76" column="9" selection-start-line="21" selection-start-column="8" selection-end-line="76" selection-end-column="9" />
+            <state relative-caret-position="465">
+              <caret line="34" selection-start-line="31" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,82 +43,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blackSquare.java">
+        <entry file="file://$PROJECT_DIR$/src/helpfulMaths.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/teamOlympiad.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nightAtTheMuseum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/specialPermutaion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uniqueBidAuction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/games.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuyAShovel_732A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="9" selection-end-line="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#379#388#0" expanded="true" />
+                <element signature="e#439#448#0" expanded="true" />
+                <element signature="e#499#508#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/isHorseShoeOnTheOtherHoof.java">
+        <entry file="file://$PROJECT_DIR$/src/newPassword.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,6 +128,17 @@
         <option value="$PROJECT_DIR$/src/games.java" />
         <option value="$PROJECT_DIR$/src/BuyAShovel_732A.java" />
         <option value="$PROJECT_DIR$/src/isHorseShoeOnTheOtherHoof.java" />
+        <option value="$PROJECT_DIR$/src/colorfulStones.java" />
+        <option value="$PROJECT_DIR$/src/dieRoll.java" />
+        <option value="$PROJECT_DIR$/src/shaassAndOskols.java" />
+        <option value="$PROJECT_DIR$/src/juicer.java" />
+        <option value="$PROJECT_DIR$/src/carrotCake.java" />
+        <option value="$PROJECT_DIR$/src/antonAndLetters.java" />
+        <option value="$PROJECT_DIR$/src/wayTooLongWords.java" />
+        <option value="$PROJECT_DIR$/src/freeIceCream.java" />
+        <option value="$PROJECT_DIR$/src/helpfulMaths.java" />
+        <option value="$PROJECT_DIR$/src/teamOlympiad.java" />
+        <option value="$PROJECT_DIR$/src/newPassword.java" />
       </list>
     </option>
   </component>
@@ -188,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -205,7 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,14 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.isHorseShoeOnTheOtherHoof">
-    <configuration name="BuyAShovel_732A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuyAShovel_732A" />
-      <module name="Codeforces" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.newPassword">
     <configuration name="VasyaAndSocks_460A" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VasyaAndSocks_460A" />
       <module name="Codeforces" />
@@ -249,29 +214,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="games" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="games" />
+    <configuration name="freeIceCream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="freeIceCream" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isHorseShoeOnTheOtherHoof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isHorseShoeOnTheOtherHoof" />
+    <configuration name="helpfulMaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpfulMaths" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="specialPermutaion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="specialPermutaion" />
+    <configuration name="newPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPassword" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="uniqueBidAuction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uniqueBidAuction" />
+    <configuration name="teamOlympiad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teamOlympiad" />
+      <module name="Codeforces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wayTooLongWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wayTooLongWords" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -279,19 +251,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.VasyaAndSocks_460A" />
-      <item itemvalue="Application.specialPermutaion" />
-      <item itemvalue="Application.uniqueBidAuction" />
-      <item itemvalue="Application.games" />
-      <item itemvalue="Application.BuyAShovel_732A" />
-      <item itemvalue="Application.isHorseShoeOnTheOtherHoof" />
+      <item itemvalue="Application.freeIceCream" />
+      <item itemvalue="Application.helpfulMaths" />
+      <item itemvalue="Application.newPassword" />
+      <item itemvalue="Application.teamOlympiad" />
+      <item itemvalue="Application.wayTooLongWords" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.isHorseShoeOnTheOtherHoof" />
-        <item itemvalue="Application.BuyAShovel_732A" />
-        <item itemvalue="Application.games" />
-        <item itemvalue="Application.uniqueBidAuction" />
-        <item itemvalue="Application.specialPermutaion" />
+        <item itemvalue="Application.newPassword" />
+        <item itemvalue="Application.teamOlympiad" />
+        <item itemvalue="Application.helpfulMaths" />
+        <item itemvalue="Application.freeIceCream" />
+        <item itemvalue="Application.wayTooLongWords" />
       </list>
     </recent_temporary>
   </component>
@@ -348,8 +320,8 @@
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29229608" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4914842" visible="true" weight="0.33308157" />
+      <window_info id="Structure" order="1" sideWeight="0.50851583" side_tool="true" weight="0.32401812" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -357,7 +329,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3262295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3262295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -420,6 +392,12 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/juicer.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -429,6 +407,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Codeforces$petyaAndStrings.ic" NAME="petyaAndStrings Coverage Results" MODIFIED="1605202832120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Codeforces$teamOlympiad.ic" NAME="teamOlympiad Coverage Results" MODIFIED="1611481489222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Codeforces$nightAtTheMuseum.ic" NAME="nightAtTheMuseum Coverage Results" MODIFIED="1606098610560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
@@ -645,20 +624,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BuyAShovel_732A.java">
+    <entry file="file://$PROJECT_DIR$/src/blackSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" selection-end-line="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uniqueBidAuction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="315">
+          <caret line="25" column="5" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -675,20 +644,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackSquare.java">
+    <entry file="file://$PROJECT_DIR$/src/specialPermutaion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+        <state relative-caret-position="390">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/specialPermutaion.java">
+    <entry file="file://$PROJECT_DIR$/src/juicer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        <state relative-caret-position="360">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shaassAndOskols.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dieRoll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/antonAndLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="25" lean-forward="true" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/carrotCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wayTooLongWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -697,8 +716,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/games.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uniqueBidAuction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="93" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/colorfulStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -707,8 +746,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/isHorseShoeOnTheOtherHoof.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BuyAShovel_732A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/freeIceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="34" selection-start-line="31" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helpfulMaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teamOlympiad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#388#0" expanded="true" />
+            <element signature="e#439#448#0" expanded="true" />
+            <element signature="e#499#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
