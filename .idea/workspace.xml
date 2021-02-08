@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30dc2128-0104-4f0a-bc09-4fd0f13ef84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/antonAndLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carrotCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/colorfulStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dieRoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/freeIceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpfulMaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juicer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shaassAndOskols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teamOlympiad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wayTooLongWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spoj_ASP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,19 +51,28 @@
               <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#379#388#0" expanded="true" />
-                <element signature="e#439#448#0" expanded="true" />
-                <element signature="e#499#508#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/newPassword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/newPassword.java">
+        <entry file="file://$PROJECT_DIR$/src/spoj_ASP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="300">
+              <caret line="22" column="29" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/helpfulMaths.java" />
         <option value="$PROJECT_DIR$/src/teamOlympiad.java" />
         <option value="$PROJECT_DIR$/src/newPassword.java" />
+        <option value="$PROJECT_DIR$/src/spoj_ASP.java" />
       </list>
     </option>
   </component>
@@ -160,7 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -178,6 +177,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.newPassword">
+  <component name="RunManager" selected="Application.spoj_ASP">
     <configuration name="VasyaAndSocks_460A" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VasyaAndSocks_460A" />
       <module name="Codeforces" />
@@ -235,15 +235,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="teamOlympiad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teamOlympiad" />
+    <configuration name="spoj_ASP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spoj_ASP" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wayTooLongWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wayTooLongWords" />
+    <configuration name="teamOlympiad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teamOlympiad" />
       <module name="Codeforces" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -255,15 +255,15 @@
       <item itemvalue="Application.helpfulMaths" />
       <item itemvalue="Application.newPassword" />
       <item itemvalue="Application.teamOlympiad" />
-      <item itemvalue="Application.wayTooLongWords" />
+      <item itemvalue="Application.spoj_ASP" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.spoj_ASP" />
         <item itemvalue="Application.newPassword" />
         <item itemvalue="Application.teamOlympiad" />
         <item itemvalue="Application.helpfulMaths" />
         <item itemvalue="Application.freeIceCream" />
-        <item itemvalue="Application.wayTooLongWords" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +320,7 @@
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4914842" visible="true" weight="0.33308157" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4914842" visible="true" weight="0.33761328" />
       <window_info id="Structure" order="1" sideWeight="0.50851583" side_tool="true" weight="0.32401812" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -329,7 +329,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3262295" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3262295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,6 +397,24 @@
           <line>25</line>
           <properties />
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spoj_ASP.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spoj_ASP.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/spoj_ASP.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -790,9 +808,6 @@
           <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#379#388#0" expanded="true" />
-            <element signature="e#439#448#0" expanded="true" />
-            <element signature="e#499#508#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -801,6 +816,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spoj_ASP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="29" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
